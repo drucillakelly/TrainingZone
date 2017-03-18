@@ -1,0 +1,195 @@
+@charset "utf-8";
+h1 {
+	text-align: center;
+	font-size: 54pt;
+	font-style: normal;
+	background-color: rgba(147,182,196,1.00);
+	color: rgba(255,255,255,1.00);
+	font-family: arvo;
+	font-weight: 400;
+	border-radius: 170px;
+	border-bottom-width: 0px;
+	margin-top: 15px;
+	padding-left: 43px;
+	margin-left: 312px;
+	margin-right: 284px;
+	padding-right: 53px;
+}
+h2 {
+	font-size: 24pt;
+	font-family: arvo;
+	font-style: normal;
+	font-weight: 400;
+	margin-bottom: 18px;
+	margin-top: 49px;
+	background-color: rgba(147,182,196,1.00);
+	border-radius: 150px;
+	color: rgba(255,255,255,1.00);
+	padding-top: 0px;
+	padding-left: 33px;
+	padding-right: 38px;
+	margin-right: 39px;
+	margin-left: 14px;
+}
+h3 {
+	font-size: 10pt;
+	font-family: arvo;
+	font-style: italic;
+	font-weight: 400;
+}
+
+footnote {
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+}
+
+indent {
+	text-indent: 53px;
+	list-style-image: none;
+	list-style-type: circle;
+}
+li {
+	list-style-type: square;
+	font-family: arvo;
+	font-style: normal;
+	font-weight: 400;
+}
+nav {
+	text-align: center;
+	width: 339pt;
+	height: 15pt;
+	padding-top: 0px;
+	margin-top: -32px;
+	font-family: arvo;
+	font-style: normal;
+	font-weight: 400;
+	padding-left: 0px;
+	margin-left: 609px;
+	text-decoration: none;
+	color: rgba(73,73,73,1.00);
+	background-color: undefined;
+	margin-bottom: 5px;
+}
+name {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15pt;
+	font-family: arvo;
+}
+body {
+	font-family: arvo;
+	font-style: normal;
+	font-weight: 400;
+	color: rgba(0,0,0,1.00);
+}
+.standout {
+	font-size: 24pt;
+	text-decoration: none;
+	text-indent: 42px;
+	text-shadow: 0 0;
+}
+#main {
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color: rgba(190,211,219,1.00);
+	border-radius: 524px;
+	margin-right: 538px;
+	margin-left: 548px;
+	left: -448cm;
+}
+#annoucements  {
+	margin-left: 1200px;
+	margin-bottom: 179px;
+	border-left: medium dotted rgba(72,93,147,1.00);
+	border-spacing: 0px 0px;
+	border-bottom: medium dotted rgba(72,93,147,1.00);
+	border-bottom-left-radius: 40px;
+	margin-right: 13px;
+	padding-left: 29px;
+	margin-top: -411px;
+	padding-bottom: 21px;
+
+
+}
+header {
+	margin-bottom: -41px;
+	margin-top: 79px;
+	padding-bottom: 0px;
+	padding-left: 35px;
+}
+#copyright {
+	text-align: center;
+	font-family: arvo;
+	font-style: normal;
+	font-weight: 700;
+	font-size: xx-small;
+	color: rgba(0,4,73,1.00);
+
+}
+#links {
+	padding-left: 16px;
+	padding-top: 16px;
+	margin-top: -457px;
+	margin-right: 1200px;
+	margin-bottom: 715px;
+	padding-bottom: 16px;
+	margin-left: -4px;
+	padding-right: 16px;
+	border-right: medium dotted rgba(72,93,147,1.00);
+	font-size: 10pt;
+	border-bottom-style: dotted;
+	border-bottom-color: rgba(72,93,147,1.00);
+	border-bottom-right-radius: 21px;
+}
+.movein {
+	margin-left: 51px;
+}
+#contact {
+	background-color: rgba(169,197,202,1.00);
+	border-radius: 500px;
+	padding-top: 55px;
+	padding-left: 81px;
+	padding-bottom: 57px;
+	margin-right: 669px;
+	margin-left: -7px;
+	margin-top: 16px;
+	margin-bottom: 1px;
+}
+#trainers {
+	margin-top: 21px;
+	background-color: rgba(216,243,251,1.00);
+	border-radius: 150px;
+	text-align: left;
+	padding-right: 0px;
+	margin-left: -186px;
+	margin-right: -144px;
+}
+.trainers {
+	text-align: left;
+	padding-left: 0px;
+	border-radius: 4100px;
+	margin-left: -101px;
+}
+#trainingnotes {
+	margin-top: -690px;
+	margin-bottom: 50px;
+	margin-left: 5px;
+	padding-left: 0px;
+	margin-right: 1200px;
+	border-bottom: medium dotted rgba(72,93,147,1.00);
+	border-right-style: dotted;
+	border-right-color: rgba(72,93,147,1.00);
+	border-bottom-right-radius: 20px;
+}
+.plansheet {
+	border-radius: 150px;
+	margin-top: 12px;
+	margin-bottom: -172px;
+	margin-left: 70px;
+}
+.training {
+	margin-left: 1420px;
+	border-radius: 279px;
+	margin-bottom: -137px;
+}
